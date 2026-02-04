@@ -1,7 +1,5 @@
 # 🎓 Student Planner - Complete Full Stack Application
 
-## ✅ 100% Windows Compatible - No Build Tools Needed!
-
 A beautiful, fully functional student planner with React frontend and Express backend using **sql.js** (pure JavaScript SQLite - no compilation required).
 
 ---
